@@ -2,7 +2,7 @@
 
 Are you tired of spending endless hours on English assignments, only to have them scrutinized by unforgiving AI detectors and eagle-eyed English teachers? Well, fret not! Magic Text is here to rescue you from the clutches of those relentless word watchdogs.
 
-<img align="center" src="/img.png" width="900">
+<img align="center" src="/img.png" width="600">
 
 ## What is Magic Text?
 
