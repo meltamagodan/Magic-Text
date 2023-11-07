@@ -18,6 +18,7 @@ Magic Text is a free and revolutionary tool that will transform your text with j
 ## Get Started
 
 Ready to make your text disappear from the watchful eyes of AI detectors and teachers? Follow these simple steps:
+
 (Windows defender may catch it as virus, its false postive, you can test it on VM)
 1. Clone this repository to your local machine.
 2. Run the Magic Text application.
