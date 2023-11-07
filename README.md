@@ -1,4 +1,5 @@
 # Magic-Text
+
 did you get bored wasting time writing English assignments? 
 did AI Detectors and English teachers got you crazy? 
 
