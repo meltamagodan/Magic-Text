@@ -19,7 +19,7 @@ Magic Text is a free and revolutionary tool that will transform your text with j
 
 Ready to make your text disappear from the watchful eyes of AI detectors and teachers? Follow these simple steps:
 
-1. Clone this repository to your local machine.
+1. Clone this repository to your local machine or download the Release file.
 2. Run the Magic Text application.
 3. Paste your text into the input field.
 4. Click "Abracadabra" button.
